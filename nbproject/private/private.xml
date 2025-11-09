@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/aplikasikontak/database/DBHelper.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/aplikasikontak/model/Contact.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/aplikasikontak/dao/ContactDAO.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/aplikasikontak/view/FrmKontak.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/aplikasikontak/util/CSVHelper.java</file>
+        </group>
+    </open-files>
+</project-private>
